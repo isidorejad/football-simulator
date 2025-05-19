@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin Lenovo/OneDrive/Coding Projects/Documents/GitHub/football-simulator",
-      "program": "c:/Users/Admin Lenovo/OneDrive/Coding Projects/Documents/GitHub/football-simulator/build/Debug/outDebug",
+      "cwd": "c:/Users/isido/OneDrive/University Documents/Year 1/2nd Semester/CPTR150_Computer Science I/Assignments/CPTR150-JAD ISIDORE-2021101043-Project",
+      "program": "c:/Users/isido/OneDrive/University Documents/Year 1/2nd Semester/CPTR150_Computer Science I/Assignments/CPTR150-JAD ISIDORE-2021101043-Project/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
